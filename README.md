@@ -15,9 +15,7 @@
 <br/>  
 
 
-### 🛠Технологии
-<table><tr><td valign="top" width="33%">
-
+## My Skill Set  
 
 
 ### Frontend  
@@ -30,11 +28,6 @@
 <br/>  
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 
 ### GitHub статистика:  
 <div align="center">
@@ -42,5 +35,4 @@
 </div>  
 
 <br />
-
 
