@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+##Технологии
 <table><tr><td valign="top" width="33%">
 
 
