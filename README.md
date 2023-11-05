@@ -2,7 +2,7 @@
 </div>  
   
 
-# <div align="center">👨‍💻<b>Привет</b>, меня зовут Тимур!</div>  
+# <div align="center" style="color: green;">👨‍💻<b>Привет</b>, меня зовут Тимур!</div>  
   
 
 
