@@ -30,7 +30,7 @@
 
 <br/>  
 
-
+<div align="center">💣💥 Моё портфолио: <br/> https://timur-portfolio.netlify.app/💣💥</div>  
 
 ### GitHub статистика:  
 <div align="center">
