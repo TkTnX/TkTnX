@@ -36,6 +36,8 @@
 ### GitHub статистика:  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TkTnX" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkTnX" align="center" />
+  
 <img src="https://komarev.com/ghpvc/?username=TkTnX&&style=flat-square" align="center" />
 </div>  
 
