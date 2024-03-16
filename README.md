@@ -35,7 +35,7 @@
 
 ### GitHub статистика:  
 <div align="center">
-<img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)" />
+<img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TkTnX)" />
 <img src="https://komarev.com/ghpvc/?username=TkTnX&&style=flat-square" align="center" />
 </div>  
 
