@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://i.postimg.cc/wBwXjdQN/image.jpg" align="center" style="width: 100%" />
-</div>  
 
-<div align="center">
-</div>  
-  
 
 # <div align="center">👨‍💻Привет, меня зовут Тимур!</div>  
   
