@@ -35,7 +35,7 @@
 
 ###
 
-  <a align="center" href="https://timur-portfolio.netlify.app">Моё портфолио тут!</a>
+  <a align="center" href="https://timurgaliakbarov.vercel.app">Моё портфолио тут!</a>
 
 ###
 
